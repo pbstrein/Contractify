@@ -1,0 +1,9 @@
+**/obj/
+**/bin/
+**/*.lock.json
+**/*.TMP
+**/*.DotSettings.user
+**/*.csproj.user
+*.suo
+.vs/
+*.user
